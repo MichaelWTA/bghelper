@@ -2,6 +2,11 @@ Board Game Helper
 ===
 A collection of useful utilities for board gaming!
 
+#### TODO
+Add Kemet cards
+Create sorting for card ownership
+Consider other colorblind / phone friendly options for cards
+
 #### How to run
 ```
 yarn start
